@@ -1,7 +1,3 @@
-### fictional-fiesta
-
-### Module 13 challenge
-
 # E-Commerce Back End
 
 ## Description
